@@ -1,0 +1,86 @@
+.header {
+background-color:#c0c0c0;
+margin-left:100px;
+margin-right: 100px;
+height:150px;
+border-color: #000000; 
+border-style: solid;
+border-width: 1px; 
+margin-top:15px;
+}
+.Epam {
+    font-family:  Arial;
+    line-height: 2px;
+    color: #696969;
+    padding: 10px;
+    padding-left: 140px;
+    font-size: 30px;
+    font-weight: 100;
+}
+.UI {
+    font-family:  Arial;
+    line-height: 2px;
+    color: #696969;
+    padding-left: 140px;
+    padding-top: 2px;
+    font-size: 20px;
+    font-weight: 100;
+}
+.IMG {
+padding-left:10px;
+transform: translateY(-70px);
+}
+.menu {
+    display: inline;
+}
+.About{
+    font-family: Arial;
+    lighting-color: 2px;
+    color: #696969;
+    background-color: #000000;
+    margin-left:60px;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 100;
+    color:#ffe;
+    padding-left:50px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:100px;
+    margin-top: -30px;
+}
+.Home {
+    font-family: Arial;
+    lighting-color: 2px;
+    color: #696969;
+    background-color: #000000;
+    margin-left:-4px;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 100;
+    color:#ffe;
+    padding-left:50px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:100px;
+    margin-top: -30px;
+}
+.Tests {
+    font-family: Arial;
+    lighting-color: 2px;
+    color: #696969;
+    background-color: #000000;
+    margin-left:-4px;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 100;
+    color:#ffe;
+    padding-left:50px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:613px;
+    margin-top: -30px;
+}
+   
+
+
